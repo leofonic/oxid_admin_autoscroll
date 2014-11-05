@@ -1,0 +1,21 @@
+﻿------------------------------------------
+OXID-MODUL "OXID ADMINLISTS AUTOSCROLL"
+------------------------------------------
+
+Mit diesem Modul werden Listen im Backendbereich von OXID eShop automatisch zum aktiven
+Eintrag gescrollt.
+
+
+Systemvoraussetzungen:
+----------------------
+OXID ab Version 4.6.0
+
+
+Installation:
+-------------
+1) Kopieren Sie bitte alle vorliegenden Dateien aus dem Verzeichnis "copy_this" in den Shop. 
+   Behalten Sie die Verzeichnisstruktur bei!
+
+
+2) Aktivieren Sie das Modul im Oxid-Backend unter "Erweiterungen/Module".
+	
